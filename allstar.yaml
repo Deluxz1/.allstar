@@ -1,0 +1,6 @@
+optConfig:
+  optOutStrategy: false
+  optOutPrivateRepo: false
+  optOutPublicRepos: false
+  optInRepos:
+    - "demo"
